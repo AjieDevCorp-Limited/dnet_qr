@@ -3,7 +3,7 @@
 
 ### Cara pakai
 
-1. Tambahkan button di login.html
+1. Tambahkan button di login.html  atau gnakan nav jika tidak menggunakan tombol.
 ```html
 <button onclick="window.location='https://ajiedev-net.rf.gd/dnet_qr/';">QR Code</button>
 ```
